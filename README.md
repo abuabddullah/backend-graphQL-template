@@ -1,4 +1,10 @@
 # Server Starter Template
+its a raw backend starter template using 
+- Express
+- Typescript
+- Mongoose
+
+graphql isn't implemeted yet
 
 A robust Node.js/Express server template with authentication, role-based access control, and error handling.
 
